@@ -2,7 +2,7 @@
 
 Welcome to the Smart Banking Suite, a C++ console-based banking client management system developed as part of the [Abu-Hadhoud Platform](https://programmingadvices.com/) training track with Dr. Mohammed Abu-Hadhoud.  
 This project evolves through multiple versions, each enhancing functionality, usability, and code architecture.
-
+ 
 ---
 
 ## 📁 Project Versions Overview
